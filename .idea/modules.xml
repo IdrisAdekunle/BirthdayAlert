@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/alert.iml" filepath="$PROJECT_DIR$/.idea/alert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../blog/.idea/blog.iml" filepath="$PROJECT_DIR$/../blog/.idea/blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gba360/.idea/gba360.iml" filepath="$PROJECT_DIR$/../gba360/.idea/gba360.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../invapp/.idea/invapp.iml" filepath="$PROJECT_DIR$/../invapp/.idea/invapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../store/.idea/store.iml" filepath="$PROJECT_DIR$/../store/.idea/store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sva/.idea/sva.iml" filepath="$PROJECT_DIR$/../sva/.idea/sva.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../urbnn/.idea/urbnn.iml" filepath="$PROJECT_DIR$/../urbnn/.idea/urbnn.iml" />
+    </modules>
+  </component>
+</project>
